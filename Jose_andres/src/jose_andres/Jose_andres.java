@@ -8,7 +8,7 @@ public class Jose_andres {
         Scanner teclado=new Scanner(System.in);
         
         System.out.println("Hola mundo soy Andres");
-        System.out.println("hola domun");
+        System.out.println("Hola mundo soy jose");
         
         
     }
